@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently a student at Fullstack Academy, enrolled in their Web Development program. 
+My programming journey began in 2022 at Parkland College, where I earned a General Programming Certificate. 
+My goal is to continue enhancing my skills and pursue a career as a Full-Stack or Backend Developer 😄 
+
+📫 How to reach me: ol19469@gmail.com
