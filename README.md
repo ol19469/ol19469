@@ -68,10 +68,12 @@ I'm a Full Stack Web Developer based in the Midwest. I enjoy building full-featu
 
 ---
 
+
 ## 📫 Let's Connect
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oscar-lopez-592534240/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](ol19469@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=ol19469&style=flat-square&color=blue)
 
