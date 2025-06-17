@@ -1,9 +1,14 @@
 ## Hi there 👋
 
-I am currently a student at Fullstack Academy, enrolled in their Web Development program. 
-My programming journey began in 2022 at Parkland College, where I earned a General Programming Certificate. 
-My goal is to continue enhancing my skills and pursue a career as a Full-Stack or Backend Developer 😄 
+I'm a Full Stack Web Developer based in the Midwest. I enjoy building full-featured applications, writing clean code, and bringing designs to life with smooth user experiences. 
 
+## 🚀 About Me
+
+- 🎓 Fullstack Academy Graduate (2025)
+- 🎓 General Programming Certificate from Parkland College (2024)
+- 🔨 Building full-stack web apps using modern tools
+- ✨ Passionate about design, accessibility, and seamless UI
+- 📚 Always learning and growing
 
 ## 🧠 Languages I Use
 
